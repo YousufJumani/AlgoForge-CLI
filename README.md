@@ -1,4 +1,5 @@
 # AlgoForge CLI
+<img width="1920" height="1080" alt="Untitled design (13)" src="https://github.com/user-attachments/assets/32eb5058-c3a4-4715-ab65-0f88e0795fda" />
 
 ## Problem It Solves
 Practice and benchmark algorithmic strategies using reproducible datasets.
@@ -47,3 +48,4 @@ g++ -std=c++17 -O2 .\src\main.cpp -o algoforge.exe
 - You can compare algorithms with controlled inputs.
 - You can reason about runtime and memory behavior.
 - You can design a simple extensible architecture.
+
